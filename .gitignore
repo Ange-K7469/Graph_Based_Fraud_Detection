@@ -1,0 +1,6 @@
+# Ignore the 5 CSV datasets in this workspace
+sample_submission.csv
+test_identity.csv
+test_transaction.csv
+train_identity.csv
+train_transaction.csv
